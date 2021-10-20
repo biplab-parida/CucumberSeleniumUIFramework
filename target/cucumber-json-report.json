@@ -1,0 +1,264 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2021-10-20T15:38:00.449Z",
+        "before": [
+          {
+            "result": {
+              "duration": 17000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.fis.test.AppHooks.ApplicationHooks.getProperty()"
+            }
+          },
+          {
+            "result": {
+              "duration": 6948000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.fis.test.AppHooks.ApplicationHooks.launchBrowser()"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "Open Google and verify the first returned value",
+        "description": "",
+        "id": "get-the-first-returned-value-in-search;open-google-and-verify-the-first-returned-value;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 3000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.fis.test.AppHooks.ApplicationHooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 1208000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.fis.test.AppHooks.ApplicationHooks.quitBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2702000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user is on home page where URL is \"http://www.google.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"http://www.google.com\"",
+                  "offset": 34
+                }
+              ],
+              "location": "com.fis.test.stepdefinitions.commonStep.openHomePage(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3602000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user search for \"fiserv\" in \"google\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"fiserv\"",
+                  "offset": 16
+                },
+                {
+                  "val": "\"google\"",
+                  "offset": 28
+                }
+              ],
+              "location": "com.fis.test.stepdefinitions.HomePageStep.searchOnHomePage(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 98000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "get the first returned value in \"google\" and compare with \"https://www.fiserv.com/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"google\"",
+                  "offset": 32
+                },
+                {
+                  "val": "\"https://www.fiserv.com/\"",
+                  "offset": 58
+                }
+              ],
+              "location": "com.fis.test.stepdefinitions.SearchPageStep.getValueAndValidate(java.lang.String,java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-10-20T15:38:15.219Z",
+        "before": [
+          {
+            "result": {
+              "duration": 4000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.fis.test.AppHooks.ApplicationHooks.getProperty()"
+            }
+          },
+          {
+            "result": {
+              "duration": 5524000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.fis.test.AppHooks.ApplicationHooks.launchBrowser()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "Open Google and verify the first returned value",
+        "description": "",
+        "id": "get-the-first-returned-value-in-search;open-google-and-verify-the-first-returned-value;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.fis.test.AppHooks.ApplicationHooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 1205000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.fis.test.AppHooks.ApplicationHooks.quitBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4540000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user is on home page where URL is \"http://www.yahoo.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"http://www.yahoo.com\"",
+                  "offset": 34
+                }
+              ],
+              "location": "com.fis.test.stepdefinitions.commonStep.openHomePage(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1699000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user search for \"fiserv\" in \"yahoo\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"fiserv\"",
+                  "offset": 16
+                },
+                {
+                  "val": "\"yahoo\"",
+                  "offset": 28
+                }
+              ],
+              "location": "com.fis.test.stepdefinitions.HomePageStep.searchOnHomePage(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 126000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "get the first returned value in \"yahoo\" and compare with \"https://www.fiserv.com/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"yahoo\"",
+                  "offset": 32
+                },
+                {
+                  "val": "\"https://www.fiserv.com/\"",
+                  "offset": 57
+                }
+              ],
+              "location": "com.fis.test.stepdefinitions.SearchPageStep.getValueAndValidate(java.lang.String,java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      }
+    ],
+    "name": "Get the first returned value in Search",
+    "description": "",
+    "id": "get-the-first-returned-value-in-search",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Feature/ValidateSearch.feature",
+    "tags": [
+      {
+        "name": "@regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

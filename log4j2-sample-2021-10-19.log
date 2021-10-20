@@ -1,0 +1,103 @@
+[INFO ] 2021-10-19 11:56:16.208 [main] CustomLogger - Starting Step : Searching in Home Page 
+[INFO ] 2021-10-19 11:56:16.256 [main] CustomLogger - Searching on Google Home Pagefiserv
+[INFO ] 2021-10-19 11:56:16.505 [main] CustomLogger - Entered Value in Input Box
+[INFO ] 2021-10-19 11:56:19.020 [main] CustomLogger - Enter button pressed successfully
+[INFO ] 2021-10-19 11:56:19.021 [main] CustomLogger - End Step : Searching in Home Page 
+[INFO ] 2021-10-19 11:56:19.030 [main] CustomLogger - Getting href attributefor first searched result
+[INFO ] 2021-10-19 18:26:18.863 [main] CustomLogger - Starting Step : Searching in Home Page 
+[INFO ] 2021-10-19 18:26:18.869 [main] CustomLogger - Searching on Google Home Pagefiserv
+[INFO ] 2021-10-19 21:05:59.067 [main] CustomLogger - Starting Step : Searching in Home Page 
+[INFO ] 2021-10-19 21:05:59.074 [main] CustomLogger - Searching on Google Home Pagefiserv
+[INFO ] 2021-10-19 21:05:59.330 [main] CustomLogger - Entered Value in Input Box
+[INFO ] 2021-10-19 21:06:01.883 [main] CustomLogger - Enter button pressed successfully
+[INFO ] 2021-10-19 21:06:01.883 [main] CustomLogger - End Step : Searching in Home Page 
+[INFO ] 2021-10-19 21:06:01.894 [main] CustomLogger - Getting href attributefor first searched result
+[INFO ] 2021-10-19 21:07:44.644 [main] CustomLogger - Starting Step : Searching in Home Page 
+[INFO ] 2021-10-19 21:07:44.652 [main] CustomLogger - Searching on Google Home Pagefiserv
+[INFO ] 2021-10-19 21:07:44.932 [main] CustomLogger - Entered Value in Input Box
+[INFO ] 2021-10-19 21:07:48.369 [main] CustomLogger - Enter button pressed successfully
+[INFO ] 2021-10-19 21:07:48.370 [main] CustomLogger - End Step : Searching in Home Page 
+[INFO ] 2021-10-19 21:07:48.382 [main] CustomLogger - Getting href attributefor first searched result
+[INFO ] 2021-10-19 21:08:27.540 [main] CustomLogger - Starting Step : Searching in Home Page 
+[INFO ] 2021-10-19 21:08:27.548 [main] CustomLogger - Searching on Google Home Pagefiserv
+[INFO ] 2021-10-19 21:18:49.032 [main] CustomLogger - Starting Step : Searching in Home Page 
+[INFO ] 2021-10-19 21:18:49.042 [main] CustomLogger - Searching on Home Pagefiserv
+[INFO ] 2021-10-19 21:18:49.249 [main] CustomLogger - Entered Value in Input Box
+[INFO ] 2021-10-19 21:22:08.959 [main] CustomLogger - Starting Step : Searching in Home Page 
+[INFO ] 2021-10-19 21:22:08.974 [main] CustomLogger - Searching on Home Pagefiserv
+[INFO ] 2021-10-19 21:22:09.208 [main] CustomLogger - Entered Value in Input Box
+[INFO ] 2021-10-19 21:22:11.266 [main] CustomLogger - Enter button pressed successfully
+[INFO ] 2021-10-19 21:22:11.267 [main] CustomLogger - End Step : Searching in Home Page 
+[INFO ] 2021-10-19 21:22:11.278 [main] CustomLogger - Getting href attributefor first searched result
+[INFO ] 2021-10-19 21:30:35.792 [main] CustomLogger - Starting Step : Searching in Home Page 
+[INFO ] 2021-10-19 21:30:35.801 [main] CustomLogger - Searching on Home Pagefiserv
+[INFO ] 2021-10-19 21:30:36.145 [main] CustomLogger - Entered Value in Input Box
+[INFO ] 2021-10-19 21:30:37.685 [main] CustomLogger - Enter button pressed successfully
+[INFO ] 2021-10-19 21:30:37.686 [main] CustomLogger - End Step : Searching in Home Page 
+[INFO ] 2021-10-19 21:30:37.694 [main] CustomLogger - Getting href attributefor first searched result
+[INFO ] 2021-10-19 21:44:15.045 [main] CustomLogger - Starting Step : Searching in Home Page 
+[INFO ] 2021-10-19 21:44:15.056 [main] CustomLogger - Searching on Home Pagefiserv
+[INFO ] 2021-10-19 21:44:15.471 [main] CustomLogger - Entered Value in Input Box
+[INFO ] 2021-10-19 21:44:17.037 [main] CustomLogger - Enter button pressed successfully
+[INFO ] 2021-10-19 21:44:17.038 [main] CustomLogger - End Step : Searching in Home Page 
+[INFO ] 2021-10-19 21:44:17.046 [main] CustomLogger - Getting href attributefor first searched result
+[INFO ] 2021-10-19 21:49:01.907 [main] CustomLogger - Starting Step : Searching in Home Page 
+[INFO ] 2021-10-19 21:49:01.916 [main] CustomLogger - Searching on Home Pagefiserv
+[INFO ] 2021-10-19 21:49:02.100 [main] CustomLogger - Entered Value in Input Box
+[INFO ] 2021-10-19 21:49:03.600 [main] CustomLogger - Enter button pressed successfully
+[INFO ] 2021-10-19 21:49:03.601 [main] CustomLogger - End Step : Searching in Home Page 
+[INFO ] 2021-10-19 21:49:03.613 [main] CustomLogger - Getting href attributefor first searched result
+[INFO ] 2021-10-19 21:50:17.770 [main] CustomLogger - Starting Step : Searching in Home Page 
+[INFO ] 2021-10-19 21:50:17.778 [main] CustomLogger - Searching on Home Pagefiserv
+[INFO ] 2021-10-19 21:50:17.994 [main] CustomLogger - Entered Value in Input Box
+[INFO ] 2021-10-19 21:50:19.580 [main] CustomLogger - Enter button pressed successfully
+[INFO ] 2021-10-19 21:50:19.581 [main] CustomLogger - End Step : Searching in Home Page 
+[INFO ] 2021-10-19 21:50:19.593 [main] CustomLogger - Getting href attributefor first searched result
+[INFO ] 2021-10-19 21:53:29.888 [main] CustomLogger - Starting Step : Searching in Home Page 
+[INFO ] 2021-10-19 21:53:29.897 [main] CustomLogger - Searching on Home Pagefiserv
+[INFO ] 2021-10-19 21:53:30.219 [main] CustomLogger - Entered Value in Input Box
+[INFO ] 2021-10-19 21:53:31.768 [main] CustomLogger - Enter button pressed successfully
+[INFO ] 2021-10-19 21:53:31.768 [main] CustomLogger - End Step : Searching in Home Page 
+[INFO ] 2021-10-19 21:53:31.776 [main] CustomLogger - Getting href attributefor first searched result
+[INFO ] 2021-10-19 21:55:00.203 [main] CustomLogger - Starting Step : Searching in Home Page 
+[INFO ] 2021-10-19 21:55:00.237 [main] CustomLogger - Searching on Home Pagefiserv
+[INFO ] 2021-10-19 21:55:00.529 [main] CustomLogger - Entered Value in Input Box
+[INFO ] 2021-10-19 21:55:02.077 [main] CustomLogger - Enter button pressed successfully
+[INFO ] 2021-10-19 21:55:02.077 [main] CustomLogger - End Step : Searching in Home Page 
+[INFO ] 2021-10-19 21:55:02.085 [main] CustomLogger - Getting href attributefor first searched result
+[INFO ] 2021-10-19 21:56:21.279 [main] CustomLogger - Starting Step : Searching in Home Page 
+[INFO ] 2021-10-19 21:56:21.288 [main] CustomLogger - Searching on Home Pagefiserv
+[INFO ] 2021-10-19 21:56:21.567 [main] CustomLogger - Entered Value in Input Box
+[INFO ] 2021-10-19 21:56:22.930 [main] CustomLogger - Enter button pressed successfully
+[INFO ] 2021-10-19 21:56:22.930 [main] CustomLogger - End Step : Searching in Home Page 
+[INFO ] 2021-10-19 21:56:22.939 [main] CustomLogger - Getting href attributefor first searched result
+[INFO ] 2021-10-19 22:00:34.810 [main] CustomLogger - Starting Step : Searching in Home Page 
+[INFO ] 2021-10-19 22:00:34.824 [main] CustomLogger - Searching on Home Pagefiserv
+[INFO ] 2021-10-19 22:00:35.114 [main] CustomLogger - Entered Value in Input Box
+[INFO ] 2021-10-19 22:00:36.908 [main] CustomLogger - Enter button pressed successfully
+[INFO ] 2021-10-19 22:00:36.909 [main] CustomLogger - End Step : Searching in Home Page 
+[INFO ] 2021-10-19 22:00:36.919 [main] CustomLogger - Getting href attributefor first searched result
+[INFO ] 2021-10-19 22:01:32.766 [main] CustomLogger - Starting Step : Searching in Home Page 
+[INFO ] 2021-10-19 22:01:32.777 [main] CustomLogger - Searching on Home Pagefiserv
+[INFO ] 2021-10-19 22:01:33.057 [main] CustomLogger - Entered Value in Input Box
+[INFO ] 2021-10-19 22:01:34.517 [main] CustomLogger - Enter button pressed successfully
+[INFO ] 2021-10-19 22:01:34.518 [main] CustomLogger - End Step : Searching in Home Page 
+[INFO ] 2021-10-19 22:01:34.527 [main] CustomLogger - Getting href attributefor first searched result
+[INFO ] 2021-10-19 22:03:21.754 [main] CustomLogger - Starting Step : Searching in Home Page 
+[INFO ] 2021-10-19 22:03:21.761 [main] CustomLogger - Searching on Home Pagefiserv
+[INFO ] 2021-10-19 22:03:21.923 [main] CustomLogger - Entered Value in Input Box
+[INFO ] 2021-10-19 22:03:24.079 [main] CustomLogger - Enter button pressed successfully
+[INFO ] 2021-10-19 22:03:24.080 [main] CustomLogger - End Step : Searching in Home Page 
+[INFO ] 2021-10-19 22:03:24.091 [main] CustomLogger - Getting href attributefor first searched result
+[INFO ] 2021-10-19 22:07:33.960 [main] CustomLogger - Starting Step : Searching in Home Page 
+[INFO ] 2021-10-19 22:07:33.966 [main] CustomLogger - Searching on Home Pagefiserv
+[INFO ] 2021-10-19 22:07:34.319 [main] CustomLogger - Entered Value in Input Box
+[INFO ] 2021-10-19 22:07:35.850 [main] CustomLogger - Enter button pressed successfully
+[INFO ] 2021-10-19 22:07:35.851 [main] CustomLogger - End Step : Searching in Home Page 
+[INFO ] 2021-10-19 22:07:35.859 [main] CustomLogger - Getting href attributefor first searched result
+[INFO ] 2021-10-19 22:08:26.848 [main] CustomLogger - Starting Step : Searching in Home Page 
+[INFO ] 2021-10-19 22:08:26.856 [main] CustomLogger - Searching on Home Pagefiserv
+[INFO ] 2021-10-19 22:08:27.120 [main] CustomLogger - Entered Value in Input Box
+[INFO ] 2021-10-19 22:08:28.594 [main] CustomLogger - Enter button pressed successfully
+[INFO ] 2021-10-19 22:08:28.594 [main] CustomLogger - End Step : Searching in Home Page 
+[INFO ] 2021-10-19 22:08:28.604 [main] CustomLogger - Getting href attributefor first searched result

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="28.277">
+<testcase classname="Get the first returned value in Search" name="Open Google and verify the first returned value" time="14.738">
+<system-out><![CDATA[Given user is on home page where URL is "http://www.google.com".............passed
+When user search for "fiserv" in "google"...................................passed
+Then get the first returned value in "google" and compare with "https://www.fiserv.com/".passed
+]]></system-out>
+</testcase>
+<testcase classname="Get the first returned value in Search" name="Open Google and verify the first returned value 2" time="13.11">
+<system-out><![CDATA[Given user is on home page where URL is "http://www.yahoo.com"..............passed
+When user search for "fiserv" in "yahoo"....................................passed
+Then get the first returned value in "yahoo" and compare with "https://www.fiserv.com/".passed
+]]></system-out>
+</testcase>
+</testsuite>
